@@ -1,0 +1,30 @@
+body {
+  
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: darkgrey;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+}
+
+.section--header {
+  background-color: darkgrey;
+}
+
+.section--text {
+  margin-left: 15px;
+}
+
+.footer--text {
+  text-align: center;
+  background-color: darkgray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
